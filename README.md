@@ -1,7 +1,7 @@
-- 👋 Hi, I’m mohamed ibrahim
+- 👋 Hi, I’m Mohamed Ibrahim
 - 👀 I’m currently working on somthing cool ;)
 - 🌱 I’m currently learning how to make developers cry!😅
-- 🧾 Ask me anything about Java/Selenium/Automation Testing
+- 🧾 Ask me anything about Java/Python/Networking/Automation Testing
 - 📫 How to reach me: @aymohamedibrahim
-- ⚡️ Fun fact : I'm Automation Tester 💻 
+- ⚡️ Fun fact : Tester! 
 - ❣️ Commited with Badminton 🏸 
